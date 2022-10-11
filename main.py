@@ -7,3 +7,5 @@ weight = int(input("Введите ваш вес (кг): ")) # конверта�
 height = int(input("Введите ваш рост (см): ")) / 100
 bmi = weight / (height**2) # bmi = weight / (height * height)
 print(f"Ваш индекс массы тела: {bmi}")
+
+# https://github.com/ItZoopark/9g_2070
